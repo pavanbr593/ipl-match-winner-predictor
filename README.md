@@ -17,3 +17,11 @@ This project uses historical IPL data and a Decision Tree Classifier (CART model
 
 ---
 
+## Tech Stack
+Frontend: HTML, CSS (custom styles)
+
+Backend: Python, Flask
+
+ML Tools: Scikit-learn, Pandas, Pickle
+
+IDE: Jupyter Notebook for development
