@@ -1,9 +1,19 @@
+# IPL Match Winner Predictor 🏏
 
-# IPL Match Winner Predictor
+A machine learning-based web application that predicts the **winner of an IPL match** based on input conditions such as teams, venue, and toss winner.
 
-This project predicts the winner of an IPL (Indian Premier League) match based on various features such as teams, venue, and toss result. It uses a Machine Learning model trained on historical IPL data and provides a web interface for user interaction.
+This project uses historical IPL data and a Decision Tree Classifier (CART model) to predict match outcomes. It features a Flask-powered web interface for easy interaction.
 
-A simple web interface allows users to select match parameters and get real-time predictions.
+---
 
+## 📌 Features
 
+- Predicts match outcome based on selected parameters.
+- Cleaned and preprocessed IPL dataset.
+- Trained CART (Decision Tree) model.
+- Simple web interface using HTML/CSS + Flask.
+- Encoded categorical data using label encoders.
+- Deployable as a standalone web app.
+
+---
 
